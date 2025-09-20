@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Dheferson Prado
+##  Dheferson Prado
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e criação de soluções. Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer como programador.
 
